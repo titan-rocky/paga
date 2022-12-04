@@ -1,0 +1,80 @@
+body
+{
+	background-color: burlywood;
+}
+
+.PageTitle
+{
+	background-color:brown;
+	margin:auto ;
+	padding: 2% 5% 5% 5%;
+}
+
+#h01
+{
+	color:#f1e2cf;
+	font-family:cursive;
+	text-align:center ;
+	padding-bottom:2px ;
+
+}
+
+.mainPara
+{
+	color:burlywood;
+	font-family:monospace;
+	text-align:center ;
+}
+
+img.twoPeople
+{
+	width:240px;
+	height:240px;
+	padding:2px 3px 2px 3px;
+}
+
+div.twopeople
+{
+	margin:4px 2px 2px 2px;
+	background-color:brown;
+	padding:8px 5px 8px 5px;
+	width:22%;
+	float:left ;
+	justify-content:center ;
+
+}
+
+p.twopeopledesc
+{
+	margin:4px 2px 2px 2px;
+	background-color:brown;
+	padding:5px 5px 5px 5px;
+	text-align:center ;
+	font-family:monospace ;
+	color:burlywood;
+}
+
+div.tpimg
+{
+	display:flex;
+	justify-content:center ;
+}
+
+div.info
+{
+	width:48%;
+	display:inline ;
+	margin:5px 5px 5px 5px ;
+}
+
+div.infor
+{
+	width:52%;
+	background-color:brown ;
+	float:left;
+	margin:5px 5px 5px 5px ;
+	text-align:center ;
+	color:burlywood;
+	font-family:monospace ;
+}
+
