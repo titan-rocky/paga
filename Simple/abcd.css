@@ -1,0 +1,113 @@
+h1.title
+{
+    font-family:monospace;
+    font-size:28px ;
+    color:#f6e0b5 ;
+}
+
+section.title
+{
+    background-color: #66545e;
+    padding:5px 5px 5px 5px;
+    margin:2px 2px 2px 2px;
+    text-align: center;
+}
+
+section.first_section
+{
+    background-color:#66545e;
+    justify-content: center;
+    display:grid;
+    margin:4px 2px 3px 2px;
+    padding:2px 2px 2px 2px;
+}
+
+p.first_section
+{
+    font-size:14px;
+    font-family:monospace;
+    color:bisque;
+    text-align:center;
+}
+
+h6.first_section
+{
+    font-size: 10px;
+    padding:1px 1px 2px 1px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align:center;
+    color:burlywood;
+}
+
+section.second_section
+{
+    display:flex;
+
+}
+
+section.image_section
+{
+    background-color:#66545e;
+    justify-content: center;
+    display:flex;
+    width:50%;
+    margin:4px 2px 3px 2px;
+    padding:5px 2px 5px 2px;
+}
+
+a.image_section:link,a.image_section:visited,a.image_section:hover,a.image_section:active 
+{
+    text-decoration: none;
+} 
+
+section.desc_section
+{
+    background-color:#66545e;
+    justify-content: center;
+    color:#eea990;
+    text-align:center;
+    display:flex;
+    width:50%;
+    margin:4px 2px 3px 2px;
+    padding:2px 6px 2px 2px;
+}
+
+article.image_desc
+{
+    text-align:center;
+    border-style: dashed;
+    padding:2px 2px 2px 2px;
+    border-color: #eea990;
+    color:#f6e0b5;
+}
+
+
+div.image_piece
+{
+    border-color: aquamarine ;
+    border-width: 5px;
+    display:grid;
+    padding:2px 10px 2px 10px;
+}
+
+img.couple
+{
+    padding:10px 20px 10px 20px;
+    height:270px;
+    width:200px;
+}
+
+body
+{
+    background-color:#f6e0b5 ;
+}
+
+footer
+{
+    display:block;
+    background-color:#a39193 ;
+    color:#f6e0b5;
+    text-align:center;
+    padding:1px 1px 1px 1px ;
+    font-family: monospace;
+}
